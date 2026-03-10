@@ -1,2 +1,26 @@
-# Exploring-and-Visualizing-a-Simple-Dataset
-About This project explores and visualizes a simple dataset using Python. It includes basic data analysis and visualizations to understand patterns, trends, and relationships in the data.
+Iris Dataset Analysis 
+
+**Objective**
+
+
+To explore and visualize the Iris dataset.
+
+**Tools**
+
+
+python,pandas,matplotlib,seaborn
+
+**Approach**
+
+
+The dataset was loaded and explored using pandas.Different visualizations such as scatter plot,histogram,and box plot were created.
+
+**Result**
+
+
+The graphs helped understand relationships between variables and data distribution.
+
+**conclusion**
+
+
+The Iris dataset is useful for learning basic data analysis and visualization techniques.
